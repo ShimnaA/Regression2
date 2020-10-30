@@ -8,4 +8,10 @@
     - predict for a new data, and the whole dataset.
     
 
+**Decision Tree Rgression**
+    - Dataset - Position_Salaries.csv
 
+    - No need to do Feature Scaling 
+    - scikit learn DecisionTreeRegressor model
+    - predict for a new data, and the whole dataset.
+    
