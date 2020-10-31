@@ -15,3 +15,12 @@
     - scikit learn DecisionTreeRegressor model
     - predict for a new data, and the whole dataset.
     
+
+**Random Forest Rgression**
+    - Dataset - Position_Salaries.csv
+
+    - No need to do Feature Scaling 
+    - scikit learn RandomForestRegressor model
+    - Provide the number of trees - n_estimators = 10
+    - predict for a new data, and the whole dataset.
+    
